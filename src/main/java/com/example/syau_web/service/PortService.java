@@ -6,7 +6,7 @@ import org.springframework.scheduling.annotation.Async;
 import java.util.List;
 
 /**
- * create by wangyu
+ *
  * 2018/10/20 0020 21:13
  *
  * 串口的service

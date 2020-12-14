@@ -7,7 +7,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 /**
- * create by wangyu
+ *
  * 2018/11/20 0020 15:21
  */
 public class CurrentDateTest {

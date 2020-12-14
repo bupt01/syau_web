@@ -1,7 +1,7 @@
 package com.example.syau_web.enums;
 
 /**
- * create by wangyu
+ *
  * 2018/10/24 0024 14:07
  * <p>
  * 枚举类

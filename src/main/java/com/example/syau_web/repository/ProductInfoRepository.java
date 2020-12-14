@@ -10,7 +10,7 @@ import java.awt.print.Pageable;
 import java.util.List;
 
 /**
- * create by wangyu
+ *
  * 2018/10/22 0022 8:34
  */
 public interface ProductInfoRepository extends JpaRepository<ProductInfo,String> {

@@ -6,7 +6,7 @@ import javax.persistence.Entity;
 import javax.persistence.Id;
 
 /**
- * create by wangyu
+ *
  * 2018/10/19 0019 21:00
  *
  * 类目表

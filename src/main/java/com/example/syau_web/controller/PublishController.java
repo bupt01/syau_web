@@ -30,7 +30,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * create by wangyu
+ *
  * 2018/10/26 0026 13:38
  * <p>
  * 此类是和发布动态有关的类

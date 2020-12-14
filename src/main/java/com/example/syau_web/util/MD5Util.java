@@ -5,7 +5,7 @@ import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 
 /**
- * create by wangyu
+ *
  * 2018/10/27 0027 11:02
  * <p>
  * 生成MD5加密算法

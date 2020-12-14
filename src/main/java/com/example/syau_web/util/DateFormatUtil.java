@@ -3,7 +3,7 @@ package com.example.syau_web.util;
 import java.text.SimpleDateFormat;
 
 /**
- * create by wangyu
+ *
  * 2018/11/20 0020 15:25
  *
  * 转化时间的工具类

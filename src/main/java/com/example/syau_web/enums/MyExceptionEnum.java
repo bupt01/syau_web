@@ -3,7 +3,7 @@ package com.example.syau_web.enums;
 import com.example.syau_web.exception.MyException;
 
 /**
- * create by wangyu
+ *
  * 2018/10/19 0019 18:38
  */
 public enum MyExceptionEnum {

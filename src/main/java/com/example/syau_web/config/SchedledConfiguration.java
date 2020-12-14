@@ -9,7 +9,7 @@ import org.springframework.scheduling.quartz.MethodInvokingJobDetailFactoryBean;
 import org.springframework.scheduling.quartz.SchedulerFactoryBean;
 
 /**
- * create by wangyu
+ *
  * 2018/10/28 0028 16:17
  */
 @Configuration

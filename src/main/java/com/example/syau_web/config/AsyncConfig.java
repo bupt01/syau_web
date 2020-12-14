@@ -12,7 +12,7 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 import java.util.concurrent.Executor;
 
 /**
- * create by wangyu
+ *
  * 2018/10/29 0029 17:14
  */
 @Configuration

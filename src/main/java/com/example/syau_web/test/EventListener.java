@@ -11,7 +11,7 @@ import java.io.InputStream;
 import java.util.TooManyListenersException;
 
 /**
- * create by wangyu
+ *
  * 2018/10/21 0021 10:45
  * <p>
  * 串口的监听，

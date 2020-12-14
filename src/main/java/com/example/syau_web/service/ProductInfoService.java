@@ -7,7 +7,7 @@ import org.springframework.data.domain.Pageable;
 import java.util.List;
 
 /**
- * create by wangyu
+ *
  * 2018/10/22 0022 9:04
  */
 public interface ProductInfoService {

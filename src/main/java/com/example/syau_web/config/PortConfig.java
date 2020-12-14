@@ -4,7 +4,7 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
 /**
- * create by wangyu
+ *
  * 2018/11/3 0003 16:14
  */
 @ConfigurationProperties(prefix = "port")

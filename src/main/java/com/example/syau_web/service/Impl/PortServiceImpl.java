@@ -31,7 +31,7 @@ import java.util.TimerTask;
 import java.util.concurrent.Executor;
 
 /**
- * create by wangyu
+ *
  * 2018/10/20 0020 21:14
  * <p>
  * 对串口操作的类

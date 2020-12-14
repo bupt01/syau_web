@@ -8,7 +8,7 @@ import javax.persistence.Id;
 import java.util.Date;
 
 /**
- * create by wangyu
+ *
  * 2018/10/20 0020 21:05
  *
  * 从串口传来的数据的类

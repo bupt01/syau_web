@@ -6,7 +6,7 @@ import javax.persistence.Id;
 import java.util.Date;
 
 /**
- * create by wangyu
+ *
  * 2018/11/10 0010 11:13
  */
 @Data

@@ -3,7 +3,7 @@ package com.example.syau_web.service;
 import com.example.syau_web.domain.User;
 
 /**
- * create by wangyu
+ *
  * 2018/10/19 0019 20:25
  */
 public interface UserService {

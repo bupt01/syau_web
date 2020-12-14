@@ -10,7 +10,7 @@ import javax.persistence.Id;
 import java.util.Date;
 
 /**
- * create by wangyu
+ *
  * 2018/10/22 0022 8:23
  *
  * 商品详情

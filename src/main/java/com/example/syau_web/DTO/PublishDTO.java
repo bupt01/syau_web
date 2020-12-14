@@ -8,7 +8,6 @@ import javax.persistence.Id;
 import java.util.Date;
 
 /**
- * create by wangyu
  * 2018/10/26 0026 13:46
  * <p>
  * 此类多了user对象

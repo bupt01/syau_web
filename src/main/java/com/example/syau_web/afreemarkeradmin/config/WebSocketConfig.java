@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 import org.springframework.web.socket.server.standard.ServerEndpointExporter;
 
 /**
- * create by wangyu
+ *
  * 2018/11/11 0011 16:41
  * <p>
  * websocket的配置

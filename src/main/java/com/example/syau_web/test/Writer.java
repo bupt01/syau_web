@@ -5,7 +5,7 @@ import gnu.io.SerialPort;
 import gnu.io.UnsupportedCommOperationException;
 
 /**
- * create by wangyu
+ *
  * 2018/10/21 0021 11:08
  * <p>
  * 没用上

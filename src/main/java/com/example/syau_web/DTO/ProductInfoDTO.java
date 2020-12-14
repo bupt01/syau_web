@@ -6,7 +6,7 @@ import org.springframework.web.multipart.MultipartFile;
 import javax.persistence.Id;
 
 /**
- * create by wangyu
+ *
  * 2018/10/22 0022 12:58
  *
  * 加了一个类型属性

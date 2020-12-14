@@ -7,7 +7,6 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * create by wangyu
  * 2018/11/19 0019 10:33
  * cookie的工具类
  */

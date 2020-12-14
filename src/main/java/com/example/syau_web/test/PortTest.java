@@ -20,7 +20,7 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 /**
- * 关于串口的测试
+ *
  * create by wangyu
  * 2018/10/20 0020 18:36
  */

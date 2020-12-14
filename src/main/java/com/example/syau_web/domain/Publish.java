@@ -7,8 +7,8 @@ import javax.persistence.Entity;
 import java.util.Date;
 
 /**
- * create by wangyu
- * 2018/10/25 0025 19:36
+ *
+ *
  *
  * 发布公告的类
  */

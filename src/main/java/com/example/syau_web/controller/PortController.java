@@ -16,7 +16,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.util.List;
 
 /**
- * create by wangyu
+ *
  * 2018/10/30 0030 14:31
  *
  *串口和前端交互的类

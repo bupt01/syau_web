@@ -7,7 +7,7 @@ import com.example.syau_web.domain.User;
 import java.util.List;
 
 /**
- * create by wangyu
+ *
  * 2018/10/25 0025 21:01
  */
 public interface PublishService {

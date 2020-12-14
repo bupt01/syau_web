@@ -7,7 +7,6 @@ import org.springframework.stereotype.Component;
 import java.util.List;
 
 /**
- * create by wangyu
  * 2018/10/25 0025 19:51
  * <p>
  * 利用mybatis操作publish数据

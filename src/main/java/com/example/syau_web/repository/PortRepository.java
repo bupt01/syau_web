@@ -9,7 +9,7 @@ import org.springframework.data.jpa.repository.Query;
 import java.util.List;
 
 /**
- * create by wangyu
+ *
  * 2018/10/20 0020 21:11
  *
  * 操作串口

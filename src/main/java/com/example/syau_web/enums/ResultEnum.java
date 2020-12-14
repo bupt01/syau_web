@@ -4,7 +4,7 @@ import lombok.Data;
 import lombok.Getter;
 
 /**
- * create by wangyu
+ *
  * 2018/11/19 0019 16:40
  */
 @Getter

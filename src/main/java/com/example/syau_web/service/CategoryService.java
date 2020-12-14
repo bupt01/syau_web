@@ -5,7 +5,7 @@ import com.example.syau_web.domain.Category;
 import java.util.List;
 
 /**
- * create by wangyu
+ *
  * 2018/10/21 0021 17:46
  */
 public interface CategoryService {
