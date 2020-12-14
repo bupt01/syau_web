@@ -1,0 +1,193 @@
+@CHARSET "UTF-8";
+.clear{clear: both;} 
+    /*--------------top------------------------------ */
+    *{
+		padding: 0px;
+		margin: 0px;
+	}
+    #page{
+    	background-color: #ECF4FF;
+    	height: 100%;
+    }
+	#top{
+		width:100%;
+		height:100px;
+		background-color: #C0D9FF;
+		background-image: url("images/backsyau.jpg");
+		background-repeat: no-repeat;
+		background-position: center;
+		background-size:100% 100px;
+	}
+	#top_left{
+		width: 500px;
+		float: left;
+	}
+	#top_left img{
+		width: 360px;
+		height: 70px;
+		margin-top: 30px;
+		margin-left: 185px;
+	}
+	#top_right{
+		width: 350px;
+		float:right;
+		margin-top: 80px;
+		font-size: 13px;
+	}
+	#top_right img{
+		width:16px;
+		height:16px;
+		margin: -1px;
+	}
+	#top_right a {
+		text-decoration: none;
+		color:#06f;
+		font-size: 15px;
+	}
+	#top_right a:hover{
+		color: red;
+	}
+	/*--------------menu------------------------------ */
+	#menu{
+		background-color: #1C3F09;
+		border-top: 2px solid #82B211;
+		padding: 6px 0px;
+		text-align: center;
+	}
+	#menu a{
+		text-decoration: none;
+		margin: 0px 25px;
+		font-size: 14px;
+		color: #fff;
+	}
+	#menu a:hover{color: #999;}
+	#menu .all{color: yellow;}
+	/*---------------------body--------------------*/
+	#body{
+		width: 850px;
+		margin:0px auto 20px;
+		border: 3px solid #C0D9FF; 
+	}
+	#myimage{
+ 		width:850px; 
+/*  		height:350px;  */
+		margin: 1px auto 0px;
+		overflow: hidden;/* 关键一：ul超出部分隐藏*/
+		
+	}
+	#myimage img{
+		width: 800px;
+		height: 290px;
+	}
+	#myimage>ul{
+		list-style: none;
+		/*width:1117px;*/  /*关键二：因为动画设给ul，所以ul不能制定宽度*/
+		height:277px;
+		margin:0px auto;
+		animation:lbt 20s infinite;
+		animation-timing-function:steps(4);/*一个周期的动画匀速完成*/
+		position:relative;/*关键三：ul和li的定位关系*/
+		
+	}
+	#myimage>ul>li{
+		width:100%;
+		height:100%;
+		box-sizing: border-box;
+	
+		position:absolute;;/*关键三：ul和li的定位关系*/
+		
+	}
+	#myimage>ul>li>img{
+		width:100%;
+	}
+	#myimage>ul>li:nth-child(1){
+		top:0px;
+		left:0px;
+	}
+	#myimage>ul>li:nth-child(2){
+		top:0px;
+		left:1117px;
+	}
+	#myimage>ul>li:nth-child(3){
+		top:0px;
+		left:2234px;
+	}
+	#myimage>ul>li:nth-child(4){
+		top:0px;
+		left:3351px;
+	}
+	
+	@keyframes lbt{
+		from{
+			transform:translate(0px);/*起始不滚动*/
+		}
+		to{
+			transform:translate(-4468px);/*循环滚动的必要长度*/
+		}
+	}
+	#myinform{
+		width: 100%;
+		height: 25px;
+		border-color: blue;
+		background-color: #82ABD7;
+	}
+	#inform1{
+		float: left;
+		margin-left: 30px;
+		margin-top: 2px;
+	}
+	#inform1 input[type="text"]{
+		height: 15px;
+		width:120px;
+		border: 1px solid #567;
+	}
+	#inform1 input[type="image"]{
+		margin-bottom:-4px;
+	}
+	#inform2 {
+		margin-top:4px;
+		float: right;
+		margin-right:30px;
+		font-size: 15px;
+		color: blue;
+	}
+	#information{
+		
+	}
+	#information1{
+		
+		width:49%;
+		float: left;
+		border:3px solid #567;
+	}
+	#information1 ul{
+		margin-left:30px;
+	}
+	#information2{
+		width:49%;
+		float: right;
+		border:3px solid #567;
+	}
+	#information2 ul{
+		margin-left:30px;
+	}
+	#bottom{
+		padding: 10px;
+		background-color: #739D48;
+	}
+	#bottom_left{
+		float: left;
+		margin-top: 30px;
+		margin-left: 100px;
+	}
+	#bottom_right{
+		float: right;
+		margin-right:150px;
+		margin-top:30px;
+		line-height: 28px;/*行高*/
+		/*margin-top: 10px;*/
+	}
+	#bottom img{
+		width: 360px;
+		height: 70px;
+	}

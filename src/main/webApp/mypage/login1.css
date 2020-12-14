@@ -1,0 +1,124 @@
+@CHARSET "UTF-8";
+.class{clear: both;}
+	*{
+		padding: 0;
+		margin: 0;
+	}
+ 	body{ 
+ 		
+ 		background-image: url("images/login1.jpg"); 
+ 		background-size:100% 100%; 
+ 		background-repeat: no-repeat;
+ 		background-attachment: fixed;
+	}
+	#top{
+		overflow: auto;
+	}
+	#top_left{
+		float: left;
+		padding-left:470px;
+		padding-top:50px;
+		
+	}
+	#top_left img {
+		width: 55px;
+		height: 55px;
+	}
+	#top_right{
+		float: right;
+		padding-top: 60px;
+		padding-right: 450px;
+	}
+	#top_right span {
+		font-size: 26px;
+		font-weight: 550;
+		font-family: cursive;
+		color: #fff;
+	}
+	#main{
+		margin: 10px auto 20px;
+		width: 400px;
+	}
+	#main_title{
+		padding-top: 100px;
+	}
+	#main_title span {
+		margin-left:25px;
+		font-size: 30px;
+		font-weight:bold;
+		color:green;
+	}
+	#main_title hr{
+		background-color:white;
+		color:white;
+		height: 2px;
+	}
+	.login_user{
+		margin-top:30px;
+		margin-left:50px;
+		position: relative;
+		width: 400px;
+	}
+	.login_user input[type="text"]{
+		width: 200px;
+		height: 33px;
+		border:1.5px solid white;
+		background-color: transparent;
+		border-radius:7px;
+	}
+	.login_user input[type="password"]{
+		width: 200px;
+		height: 33px;
+		border:1.5px solid white;
+		background-color: transparent;
+		border-radius:7px;
+	}
+	.icon_user{
+		position: absolute;
+		background-image: url("images/nameuser.jpg");
+		background-repeat: no-repeat;
+		background-size:24px 24px;
+		width: 24px;
+		height: 24px;
+		margin-top: 6px;
+		margin-left: 6px;
+	}
+	.icon_pass{
+		position: absolute;
+		background-image: url("images/passuser.jpg");
+		background-repeat: no-repeat;
+		background-size:24px 24px;
+		width: 24px;
+		height: 24px;
+		margin-top: 6px;
+		margin-left: 6px;
+	}
+	.user{
+		padding-left: 40px;
+	}
+	.login_submit{
+		margin-top: 20px;
+		position: relative;
+		margin-left: 50px;
+	}
+	.login_submit input[type="submit"]{
+		width: 245px;
+		height: 36px;
+		border:1.5px solid #6DD3FB;
+		border-radius:9px;	
+		color: #2A8BEA;
+		font-size: 18px;
+		font-weight: bold;
+		background-color: white;
+		cursor: pointer;
+	}
+	#bottom{
+		width: 400px;
+		margin:20px auto 0px;
+		padding-top:150px;
+	}
+	#bottom span{
+		height:70px;
+		padding-left:80px;
+		color: white;
+	}
